@@ -32,13 +32,6 @@ canvas{
 
 }
 
-
-.cont{
-    display: grid;
-    grid-auto-columns: repeat(3,10px) ;
-
-}
-
 .containergrid{
     display: grid;
     overflow: hidden;
@@ -46,7 +39,6 @@ canvas{
     background-color: transparent;
    
 }
-
 
 
 .containercanvas{
